@@ -1,0 +1,32 @@
+{
+  "name": "playwright-ai-telegram-automation",
+  "version": "1.0.0",
+  "description": "Playwright-based Telegram bot project created as for practicing, experimenting with automation, and expanding my knowledge of Playwright and AI-driven integrations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahandMSV/Playwright-AI-Telegram-Automation.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "playwright",
+    "automation"
+  ],
+  "author": "Sahand MSV",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SahandMSV/Playwright-AI-Telegram-Automation/issues"
+  },
+  "homepage": "https://github.com/SahandMSV/Playwright-AI-Telegram-Automation#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "playwright": "^1.57.0",
+    "telegraf": "^4.16.3"
+  }
+}
